@@ -1,4 +1,4 @@
-#   AQI-AutoEmail is a Python script to automatically send an email alert that the AQI flag should be changed.
+#   AQI-AutoEmail is a Python script that automatically sends an email to indicate that an Air Quality Index (AQI) flag should be changed.
 #   Copyright (C) 2023  Donovan James
 #
 #   This program is free software: you can redistribute it and/or modify
